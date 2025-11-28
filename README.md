@@ -16,3 +16,47 @@ muckup1 login:
 muckup2 cadastro:
 
 <img width="1362" height="644" alt="Captura de tela de 2025-11-27 22-53-49" src="https://github.com/user-attachments/assets/a354004f-93e6-4e7b-aec5-fbfeb3f11998" />
+
+muckup3
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 22-57-13" src="https://github.com/user-attachments/assets/b7e92f4e-6172-4209-9452-6b5e2303e351" />
+
+muckup4
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 22-58-17" src="https://github.com/user-attachments/assets/e84edd57-3461-4d45-be1b-c8f197d4bdf8" />
+
+muckup5 
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 22-59-24" src="https://github.com/user-attachments/assets/66aaf1e0-b1fb-436e-b5a1-3293e0001ef5" />
+
+muckup6
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-00-05" src="https://github.com/user-attachments/assets/1a36b663-c1e4-4ae8-8b76-3af9f15d5f48" />
+
+muckup7
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-00-50" src="https://github.com/user-attachments/assets/eb8f8bfb-2cae-43f5-8fb2-353a9caed0b9" />
+
+muckup8
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-01-36" src="https://github.com/user-attachments/assets/2be59cd2-a01a-4930-a663-998930217044" />
+
+muckup9
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-02-34" src="https://github.com/user-attachments/assets/19c7fc4e-38cd-4d94-8b14-9af31dee4c66" />
+
+muckup10
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-03-14" src="https://github.com/user-attachments/assets/7ab209bf-ab94-46b6-9323-7eef2aca334c" />
+
+muckup11
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-04-13" src="https://github.com/user-attachments/assets/349d1257-37cf-4a21-abd7-9feed491e323" />
+
+muckup12
+
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-04-13" src="https://github.com/user-attachments/assets/ab932552-7972-4898-9d69-64e076fcade8" />
+
+muckup13
+
+
