@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/cadastro.css">
+    <title>Tela de Cadastro</title>
+</head>
+<body>
+    <form class="cadastro">
+        <h2>Cadastro</h2>
+
+        <div class="box-user">
+            <input type="text" name="nome" required>
+            <label>Nome completo</label>
+        </div>
+
+        <div class="box-user">
+            <input type="email" name="email" required>
+            <label>E-mail</label>
+        </div>
+
+        <div class="box-user">
+            <input type="text" name="usuario" required>
+            <label>Usuário</label>
+        </div>
+
+        <div class="box-user">
+            <input type="password" name="senha" required>
+            <label>Senha</label>
+        </div>
+
+        <div class="box-user">
+            <input type="password" name="confirmar" required>
+            <label>Confirmar senha</label>
+        </div>
+
+        <div class="buttons-container">
+            <a href="/templates/central.html" class="btn">
+                <span></span><span></span><span></span><span></span>
+                Cadastrar
+            </a>
+
+            <a href="/templates/login.html" class="forget">Já tem uma conta?</a>
+        </div>
+    </form>
+</body>
+</html>
