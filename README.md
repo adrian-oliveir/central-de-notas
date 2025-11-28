@@ -55,8 +55,11 @@ muckup11
 
 muckup12
 
-<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-04-13" src="https://github.com/user-attachments/assets/ab932552-7972-4898-9d69-64e076fcade8" />
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-04-54" src="https://github.com/user-attachments/assets/5781bdc1-181a-4614-aea7-93af1b5dd769" />
 
 muckup13
 
+<img width="1362" height="644" alt="Captura de tela de 2025-11-27 23-05-41" src="https://github.com/user-attachments/assets/34949fd4-7dea-4ae7-95e8-9499f276bbfd" />
+
+muckup14
 
